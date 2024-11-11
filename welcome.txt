@@ -15,7 +15,7 @@ add g to h
 
 move f to e
 
-
+move g to m
 
 move zero to h
 
