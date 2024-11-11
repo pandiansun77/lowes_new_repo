@@ -17,4 +17,7 @@ move f to e
 
 
 
+move zero to h
+
+
 
