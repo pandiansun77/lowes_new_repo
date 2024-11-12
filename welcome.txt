@@ -1,4 +1,5 @@
 procedure division
+include copybook
 include copybook2
 add a to b
 
